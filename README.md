@@ -33,7 +33,7 @@ uv sync
 pip install openai
 ```
 
-### 4. Запустить скрипт
+### 3. Запустить скрипт
 
 ```bash
 uv run main.py
