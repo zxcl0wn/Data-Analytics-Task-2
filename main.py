@@ -2,7 +2,7 @@ from openai import OpenAI
 
 
 client = OpenAI(
-    api_key="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",
+    api_key="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",
     base_url="https://api.groq.com/openai/v1",
 )
 
